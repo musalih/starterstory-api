@@ -9,7 +9,8 @@ module.exports = {
             x(URL, 'div.story-tile', [{
                 title: '.story-tile-title',
                 revenue: '.story-tile-revenue span',
-                description: '.story-tile-description'
+                description: '.story-tile-description',
+                url: '.story-tile-description a@href'
             }])((err, stories)=> {
                 if(err) {
                     reject(err);
