@@ -1,5 +1,5 @@
 # starterstory-api
-A basic REST API for Starter Story (starterstory.com)
+A basic REST API for Starter Story (http://www.starterstory.com)
 
 ## Quick Start
 
